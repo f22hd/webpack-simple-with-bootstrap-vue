@@ -5,9 +5,9 @@ just download it and go ahead , it's ready for your coding .  
 
 resources :
 
- ...Vue js : https://vuejs.org/
+  Vue js : https://vuejs.org/
  
- ...BootstrapVue  https://bootstrap-vue.js.org/
+  BootstrapVue  https://bootstrap-vue.js.org/
  
  
  
